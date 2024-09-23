@@ -7,7 +7,7 @@
 Ri Happy - Front-end do Zero
 </h1>
 
-Bootcamp da DIO em parceria com a RI Happy para desenvolvedor Front-End com HTML, CSS e JAVASCRIPT, com uma base estruturada de conteúdos e 10 projetos práticos, incluindo páginas web responsivas e dinâmicas com temática do Stranger Things, Spider Man, Yu-Gi-Oh e mais!
+**Bootcamp** da [DIO](https://web.dio.me/home) em parceria com a **RI Happy** para desenvolvedor Front-End com HTML, CSS e JAVASCRIPT, com uma base estruturada de conteúdos e 10 projetos práticos, incluindo páginas web responsivas e dinâmicas com temática do Stranger Things, Spider Man, Yu-Gi-Oh e mais!
 
 <h2> 🚀 Tecnologias</h2>
 
