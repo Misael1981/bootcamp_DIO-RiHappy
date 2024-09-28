@@ -29,3 +29,17 @@
 - ### [Select e Seus Tipos](Formularios/select.md)
 
 - ### [Textarea](Formularios/textarea.md)
+
+## Estruturando HTML + Formatações 
+
+- ### [Formatando Textos](Estrururando-HTML/formatando-textos.md)
+
+- ### [Div e Span](Estrururando-HTML/div-span.md)
+
+- ### [Fieldsets](Estrururando-HTML/fieldsets.md)
+
+- ### [Embeds](Estrururando-HTML/embeds.md)
+
+- ### [A Tag iframe](Estrururando-HTML/iframe.md)
+
+- ### [Cores](Estrururando-HTML/cores.md)
