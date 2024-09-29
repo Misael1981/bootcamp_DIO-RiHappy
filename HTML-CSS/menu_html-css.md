@@ -63,3 +63,27 @@
 - ### [Tags Figure, Figcaption e Picture](Semantica-HTML/figure-figcaption-picturem.md)
 
 - ### [SEO](Semantica-HTML/SEO.md)
+
+# Fundamento do CSS
+
+## Introcução:
+
+- ### [O que é CSS](Fundamentos-CSS/definicao-CSS.md)
+
+- ### [O que pode ser criado com CSS](Fundamentos-CSS/como-funciona.md)
+
+- ### [Formas de Declaração do CSS](Fundamentos-CSS/formas-declaracao.md)
+
+- ### [Depurando o CSS](Fundamentos-CSS/depuracao-CSS.md)
+
+## Seletores
+
+- ### [Seletor de Tags](Fundamentos-CSS/Seletores/seletor-tag.md)
+
+- ### [Seletores de ID](Fundamentos-CSS/Seletores/seletores-id.md)
+
+- ### [Seletores de Classes](Fundamentos-CSS/Seletores/seletores-classes.md)
+
+- ### [Seletores Universais](Fundamentos-CSS/Seletores/seletores-universais.md)
+
+- ### [Seletores de Atributo](Fundamentos-CSS/Seletores/seletores-atributo.md)
