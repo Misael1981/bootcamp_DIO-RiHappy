@@ -87,3 +87,26 @@
 - ### [Seletores Universais](Fundamentos-CSS/Seletores/seletores-universais.md)
 
 - ### [Seletores de Atributo](Fundamentos-CSS/Seletores/seletores-atributo.md)
+
+## Combinadores
+
+- ### [Agrupamento de Seletores](Fundamentos-CSS/Combinadores/agrupamento-seletores.md)
+
+- ### [Combinador Descendente](Fundamentos-CSS/Combinadores/combinador-descendente.md)
+
+
+- ### [Combinador Filho](Fundamentos-CSS/Combinadores/combinador-filho.md)
+
+- ### [Combinador Irmão](Fundamentos-CSS/Combinadores/combinador-irmao.md)
+
+## Propriedades de Dimensionamento e Espaçamento
+
+- ### [Largura e Altura](Fundamentos-CSS/Dimensionamento-Espacamento/largura-altura.md)
+
+- ### [Largura e Altura/ Máxima e Mínima](Fundamentos-CSS/Dimensionamento-Espacamento/largura-altura_max_min.md)
+
+- ### [Margin](Fundamentos-CSS/Dimensionamento-Espacamento/margin.md)
+
+- ### [Padding](Fundamentos-CSS/Dimensionamento-Espacamento/padding.md)
+
+- ### [Box-Sizing](Fundamentos-CSS/Dimensionamento-Espacamento/box-sizing.md)
