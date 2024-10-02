@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin-bottom: 300px;
+        }
+        .imagens {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+        }
+        .div-container {
+            border: 2px solid red;
+            width: 200px;
+            height: 300px;
+        }
+        .div-container img {
+            width: 100%;
+            height: 100%;
+        }
+        .imagem-contain {
+            object-fit: contain;
+        }
+        .imagem-cover {
+            object-fit: cover;
+        }
+        .imagem-none {
+            object-fit: none;
+        }
+        .imagem-scale-down {
+            object-fit: scale-down;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tratamento de imagens</h1>
+    <div class="imagens">
+        <div class="div-container">
+            <img src="img/DIO.png" alt="">
+        </div>
+        <div class="div-container">
+            <img src="img/DIO.png" alt="" class="imagem-contain">
+        </div>
+        <div class="div-container">
+            <img src="img/DIO.png" alt="" class="imagem-cover">
+        </div>
+        <div class="div-container">
+            <img src="img/DIO.png" alt="" class="imagem-none">
+        </div>
+        <div class="div-container">
+            <img src="img/DIO.png" alt="" class="imagem-scale-down">
+        </div>
+    </div>
+</body>
+</html>
