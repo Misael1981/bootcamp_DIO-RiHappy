@@ -34,3 +34,32 @@
 
 ### [Propriedade Background](Estilizacao-Basica-CSS/propriedade-background.md)
 
+## Bordas
+
+### [Propriedade Border](Estilizacao-Basica-CSS/propriedade-border.md)
+
+### [Arrendonda os cantos com a Propriedade Border Radius](Estilizacao-Basica-CSS/border-radius.md)
+
+### [Propriedade Border Image](Estilizacao-Basica-CSS/border-image.md)
+
+## Fontes
+
+### [Fontes no CSS](Estilizacao-Basica-CSS/fonts.md)
+
+### Textos
+
+### [Propriedades CSS para Estilização de Texto](Estilizacao-Basica-CSS/textos.md)
+
+## Sombras
+
+### [Sombras no CSS](Estilizacao-Basica-CSS/sombras.md)
+
+## Outros
+
+### [Aplicando Transparência aos Elementos com Propriedade CSS opacity](Estilizacao-Basica-CSS/opacity.md)
+
+### [Propriedade Overflow: Controlando o Conteúdo Excedente](Estilizacao-Basica-CSS/overflow.md)
+
+### [Reset CSS: Começando do Zero](Estilizacao-Basica-CSS/reset.md)
+
+
