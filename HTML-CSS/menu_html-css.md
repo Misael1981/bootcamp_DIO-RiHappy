@@ -112,3 +112,7 @@
 - ### [Box-Sizing](Fundamentos-CSS/Dimensionamento-Espacamento/box-sizing.md)
 
 ## [Estilização Básica CSS](Fundamentos-CSS/menu_estilizacao.md)
+
+## Desafio de Projeto
+
+### [Landing Page com HTML e CSS](Desafio-Projeto_Landing-Page/README.md)

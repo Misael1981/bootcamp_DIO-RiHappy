@@ -1,0 +1,15 @@
+@media (width <= 650px) {
+    body {
+        width: 100%;
+    }
+
+    .banner {
+        background-size: cover;
+        width: 100%;
+        margin: 0;
+    }
+
+    .banner-content {
+        width: 100%;
+    }
+}
