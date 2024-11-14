@@ -27,4 +27,16 @@
 
 ### [Estruturas de repetição (for, while, do-while)](Estrutura-Repeticao/estruturas-repeticao.md)
 
+## Desafio de Código
+
+### [Código do desafio](desafio-Codigo/desafio-02.js)
+
+## Desafio de Projeto
+
+### [Classificador de Nível de Herói](Desafio-Projeto_NivelHeroi/index.js)
+
+## Desafio de Projeto
+
+### [Criando um Jogo da memória com Emojis Utilizando Javascript](Desafio-Projeto_Memory-Card/Readme.md)
+
 
