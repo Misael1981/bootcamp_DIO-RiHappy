@@ -45,3 +45,8 @@
 ## Protocolo HTTP e APIs
 
 - ### [Dominando o Procolo HTTP e Integrando com a POKEAPI](ProtocoHTTP-API/menu.md)
+
+
+## Desafio de Projeto
+
+- ### [Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS](Jogo_Cartas_Yu-Gi-Oh/readme.md)
