@@ -1,6 +1,6 @@
 # Portifolio
 
-<img src="src/img/portfolio.png">
+<img src="src/img/portifolio.png">
 <br><br>
 
 Portifolio desenvolvido durante o treinamento com a instrutora [Elidiana Andrade](https://www.linkedin.com/in/elidianaandrade/)
